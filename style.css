@@ -1,0 +1,31 @@
+body{
+    background-color: beige;
+    text-align: center;
+    padding: 4%;
+}
+.btn{
+    border: 8px solid black;
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+    border-radius: 30px;
+}
+h2{
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+#red{
+    background-color: red;
+}
+#red:hover, #yellow:hover, #green:hover, #blue:hover{
+    opacity: 89%;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+}
+#blue{
+    background-color: blue;
+}
